@@ -1,1 +1,1 @@
-print('bg2b')
+print('bg')
